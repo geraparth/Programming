@@ -20,9 +20,3 @@ class Solution:
 x = Solution()
 y = x.findNumbers([2345, 567, 6774, 56777])
 print(y)
-
-
-
-
-
-
